@@ -18,5 +18,3 @@ Some examples of questions or programs related to arrays in C are:
 - Write a program to input an array of n integers and rotate it by k positions to the right. For example, if the array is {1, 2, 3, 4, 5} and k is 2, the rotated array should be {4, 5, 1, 2, 3}.
 - Write a program to input a two-dimensional array of size m x n and display its transpose. The transpose of a matrix is obtained by swapping its rows and columns.
 - Write a program to input an image as a two-dimensional array of pixels and apply a grayscale filter to it. A grayscale filter converts each pixel to a shade of gray by taking the average of its red, green, and blue components.
-
-You can find more examples and solutions of array-related questions or programs in C from these sources: [w3resource](^1^), [Sanfoundry](^2^), [GeeksforGeeks](^3^), [CodeChef](^4^), and [Codeforwin](^5^).
