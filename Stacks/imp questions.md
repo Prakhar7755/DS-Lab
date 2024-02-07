@@ -1,0 +1,17 @@
+- ###     Write a C function to push an element onto a stack.
+- ###     Write a C function to pop an element from a stack.
+- ###     Explain the role of a top pointer in a stack implementation.
+- ###     Implement a stack using an array in C.
+- ###     Discuss the advantages and limitations of using an array-based implementation of a stack.
+- ###     Implement a stack using a linked list in C.
+- ###     Compare the array-based implementation of a stack with the linked list-based implementation.
+- ###     Explain the concept of stack overflow and stack underflow.
+- ###     How can you check if a stack is empty in C?
+- ###     How can you check if a stack is full (in the case of a fixed-size array implementation) in C?
+- ###     Write a C program to reverse a string using a stack.
+- ###     Write a C program to evaluate a postfix expression using a stack.
+- ###     Explain the concept of infix, postfix, and prefix notations in expressions.
+- ###     Write a C program to convert an infix expression to a postfix expression using a stack.
+- ###     Write a C program to check if parentheses in an expression are balanced using a stack.
+- ###     Discuss the time and space complexity of stack operations in C.
+- ###     Explain the concept of dynamic stack implementation and its advantages in C.
